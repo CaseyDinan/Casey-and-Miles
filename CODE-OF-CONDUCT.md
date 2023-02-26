@@ -1,0 +1,2 @@
+1.Our program encourages users to share their name and favorite sports so that it's convenient for them to communicate their favorite sports with each other. This program is for users of all ages.
+2.If some developers obey our initial purpose by changing codes, we will deal with it seriously.When it becomes more and more egregious, we will consider suspending program permangently

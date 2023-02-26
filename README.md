@@ -4,3 +4,4 @@ Our snippets codes look like:
     name = input("Enter your name")
     sports =  input("Enter your favorite sports")
 GIFs:https://gyazo.com/21ad8d49387053de5741015c3cfc12e6
+For license and code-of-conduct, we want to make a good relationship between developers and users. It
