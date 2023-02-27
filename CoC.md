@@ -1,4 +1,4 @@
-#Code-of-Conduct
+# Code-of-Conduct
 
 This project is to be used and submitted as a school assignment.
 Any changes made to this repository, therefor, should keep that fact in mind.
